@@ -1,0 +1,9 @@
+{
+  "VC": "VC_Name",
+  "Investor": "Investor_Name",
+  "Company": "Company_Name",
+  "Employee": "Employee_Name",
+  "Leadership": "Person_Name",
+  "Fund": "Fund_Name",
+  "default": "name"
+} 

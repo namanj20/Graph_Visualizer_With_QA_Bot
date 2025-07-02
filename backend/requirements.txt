@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+langchain
+groq
+langchain-community
+pymongo
+bcrypt
+neo4j

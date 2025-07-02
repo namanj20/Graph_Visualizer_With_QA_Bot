@@ -1,0 +1,5 @@
+# Example .env file for the frontend React app
+# Copy this file to `.env` in the same directory and fill in your values
+
+# Base URL for all backend API requests
+REACT_APP_API_URL=http://localhost:8000 
