@@ -148,7 +148,7 @@ def health_check():
 
 @app.route('/api/graph-qa', methods=['POST'])
 def graph_qa():
-    """Main graph QA endpoint - exactly the same logic as before"""
+    """Main graph QA endpoint"""
     data = request.get_json()
     
     if not data:
